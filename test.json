@@ -1,1 +1,0 @@
-{"id": "testid", "rel": 0, "name": "Testing Blueprint", "desc": "A blueprint for testing purposes", "version": null, "url": null, "manifests": {}, "crypt": {"key": null, "sig": null, "cascade": {}}, "relations": {"depends": [], "conflicts": []}}
