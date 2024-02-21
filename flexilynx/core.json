@@ -1,1 +1,46 @@
-
+{
+    "id": "flexilynx.core",
+    "rel": 0,
+    "name": "FlexiLynx Core Package",
+    "desc": "Core files required to run FlexiLynx",
+    "version": null,
+    "url": "https://raw.githubusercontent.com/FlexiLynx/Blueprints/main/flexilynx/core.json",
+    "main": {
+        "url": "https://raw.githubusercontent.com/FlexiLynx/FlexiLynxCore/main/",
+        "hash_method": "sha1",
+        "files": {
+            "__entrypoint__.py": "mJg;b2z{D#qs_(BiG=Y=R6K}-",
+            "util/base85.py": "?bV;7dVAZuBlQEU-_z}Ik=!1p",
+            "util/__init__.py": "Qd`58z9f&AUK#|rTD%RGi5d)A",
+            "util/logger.py": "n)<@}<i9?7>ew5KD7B43BK@uj",
+            "util/net.py": "zFN(VAy@t&?lB4+eseeRN_c-O",
+            "util/pack.py": "5N3KTZnP)>*5N|I&Q+>w^k!M-",
+            "util/parallel.py": "YWyh>oGqk+3KQZ!NW$;kINb9;",
+            "util/typing.py": "H&fgSheJz!@&0AV1x$W==P5W8",
+            "util/singleton/config.py": "^P6-AO|Jx$r-_etQ%tHvyKRQf",
+            "util/singleton/flexispace.py": "b&h~}o@QpAnu*H9!HrpyoR4(U",
+            "util/tools/flattools.py": "hBI)%@3!7gEyEtN+UTbIqWQK~",
+            "util/tools/functools.py": "w|~@d>7$;KiPM;1F*}$czxAOJ",
+            "util/tools/hashtools.py": "Ix740=Ka^I94(xXOUHk*X*i+$",
+            "util/tools/maptools.py": "?q0kRQEl!|pv-J>3G5~53Ahb=",
+            "util/tools/moduletools.py": "e5HT-{&uRNAJ(5#y-1x#N{(xY",
+            "util/tools/retools.py": "oD0e#VCGOPB4Q$*bSFj#V1fR^",
+            "util/tools/seqtools.py": "QJv0bBJK$)Xu+Du;KZqPp+?3U",
+            "frameworks/blueprint/blueprint.py": "C$6jyQ_gKflgvMJr;UaQjD?E7",
+            "frameworks/blueprint/generate.py": "8`kI{6XdbCR~wFB_#*LRiqv3?",
+            "frameworks/blueprint/__init__.py": "@lAo84=!G$+8OHcr<7gnP}+Fa",
+            "frameworks/blueprint/package.py": "rY6azBbhQ_R6_kuDF<b&P?Ek{",
+            "frameworks/blueprint/parts.py": "=qVZfb}Y$56+2EM+rh_+vLO{W"
+        }
+    },
+    "drafts": {},
+    "crypt": {
+        "key": null,
+        "sig": null,
+        "cascade": {}
+    },
+    "relations": {
+        "depends": [],
+        "conflicts": []
+    }
+}
