@@ -9,7 +9,7 @@
         "url": "https://raw.githubusercontent.com/FlexiLynx/FlexiLynxCore/main/",
         "hash_method": "sha1",
         "files": {
-            "__entrypoint__.py": "mJg;b2z{D#qs_(BiG=Y=R6K}-",
+            "__entrypoint__.py": "ij~#!3@CgGjzbZ@>TyTUzshK<",
             "util/base85.py": "?bV;7dVAZuBlQEU-_z}Ik=!1p",
             "util/__init__.py": "Qd`58z9f&AUK#|rTD%RGi5d)A",
             "util/logger.py": "n)<@}<i9?7>ew5KD7B43BK@uj",
@@ -26,11 +26,13 @@
             "util/tools/moduletools.py": "e5HT-{&uRNAJ(5#y-1x#N{(xY",
             "util/tools/retools.py": "oD0e#VCGOPB4Q$*bSFj#V1fR^",
             "util/tools/seqtools.py": "QJv0bBJK$)Xu+Du;KZqPp+?3U",
-            "frameworks/blueprint/blueprint.py": "C$6jyQ_gKflgvMJr;UaQjD?E7",
+            "frameworks/blueprint/blueprint.py": "??pp5T4F#RkVBLHjLJO07)Bw)",
             "frameworks/blueprint/generate.py": "8`kI{6XdbCR~wFB_#*LRiqv3?",
-            "frameworks/blueprint/__init__.py": "@lAo84=!G$+8OHcr<7gnP}+Fa",
+            "frameworks/blueprint/__init__.py": "9&kclQu#Ur8APD^ubP=9WFb*y",
             "frameworks/blueprint/package.py": "rY6azBbhQ_R6_kuDF<b&P?Ek{",
-            "frameworks/blueprint/parts.py": "=qVZfb}Y$56+2EM+rh_+vLO{W"
+            "frameworks/blueprint/parts.py": "JEv^C+wL+!4R>N<*!@%UdtdgM",
+            "frameworks/blueprint/cascade.py": "3?!?ezA%D`W+1(Y)awEYrOK9a",
+            "frameworks/blueprint/crypt.py": "Z8O<G1K6~<lx8?kFUPvGbRt}M"
         }
     },
     "drafts": {},
