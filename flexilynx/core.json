@@ -9,7 +9,7 @@
         "url": "https://raw.githubusercontent.com/FlexiLynx/FlexiLynxCore/main/",
         "hash_method": "sha3_384",
         "files": {
-            "__entrypoint__.py": "EY!c)_!6;%XNVJ%w_t;phuN7Qg+y_QM1^MJ3XQOgG$@kcp28oy0(CRLq|Hr|",
+            "__entrypoint__.py": "5x|2d+C!8`*&pU&_wGEg*PHbF3k8G;A<j)#$>jj#mPc=HXG}k3yYkVuS%51>",
             "util/base85.py": "mtL#&dwiI8K3aOL_K{Bu%6L*WpMT`SCfh2N$gs*XP|0oCgtaP2GbRV1(2&nU",
             "util/__init__.py": "mxs=MGbj1T`&w~+cX2Qh_ZOS;_IQHHj~d<TOQz$_y!FA^JUk`x{q46E9)vUu",
             "util/logger.py": "1DJz{h7gsE9x?I(g}Jvo=Ipp_u8mfaeI9!}cw9(71@VBPiFR|2Cd~b{y|d=m",
@@ -38,7 +38,7 @@
     "drafts": {},
     "crypt": {
         "key": "xuR~Xa-nnh2ylGdCc{SfiXEEn7)=w)d#hv*Nq`B8",
-        "sig": "Z0E`bun(Z%DH|e8>E{F^bj#$jN(^u(qhV7;k0vjvJr~sfBONSE%pW52auQ$h$gN`U+EBA91A#Ht(t<|~",
+        "sig": "-E_l+lCnTtl!U7<j-ejq$X$$-2anRBPW72Loxe}b(ozq*4`4oD7G}eOK5glWS_@z2czc-0LjbI?j@c*=",
         "cascade": {}
     },
     "relations": {
