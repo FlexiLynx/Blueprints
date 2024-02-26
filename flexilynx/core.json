@@ -1,1 +1,23 @@
-
+{
+    "id": "flexilynx.core",
+    "rel": 0,
+    "name": "FlexiLynx Core Package",
+    "desc": "Core files required to run FlexiLynx",
+    "version": null,
+    "url": "https://raw.githubusercontent.com/FlexiLynx/Blueprints/main/flexilynx/core.json",
+    "main": {
+        "url": "https://raw.githubusercontent.com/FlexiLynx/FlexiLynxCore/main/",
+        "hash_method": "sha3_384",
+        "files": {}
+    },
+    "drafts": {},
+    "crypt": {
+        "key": null,
+        "sig": null,
+        "cascade": {}
+    },
+    "relations": {
+        "depends": [],
+        "conflicts": []
+    }
+}
