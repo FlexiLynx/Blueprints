@@ -8,12 +8,37 @@
     "main": {
         "url": "https://raw.githubusercontent.com/FlexiLynx/FlexiLynxCore/main/",
         "hash_method": "sha3_384",
-        "files": {}
+        "files": {
+            "__entrypoint__.py": "0Gw+c_)DZ1!oHbgpua-fNvu7%Y5ZvL1W_e&{%09RkE~6^kF#xPdtjX@U6suc",
+            "util/base85.py": "mtL#&dwiI8K3aOL_K{Bu%6L*WpMT`SCfh2N$gs*XP|0oCgtaP2GbRV1(2&nU",
+            "util/__init__.py": "mxs=MGbj1T`&w~+cX2Qh_ZOS;_IQHHj~d<TOQz$_y!FA^JUk`x{q46E9)vUu",
+            "util/logger.py": "1DJz{h7gsE9x?I(g}Jvo=Ipp_u8mfaeI9!}cw9(71@VBPiFR|2Cd~b{y|d=m",
+            "util/net.py": "?GhOCs770HtLa7H67ZcQm8tn(HWz9{uY2P?&a#-i*pbq?X<i?Q{#v_$1X;HF",
+            "util/pack.py": "4NdyIrrKl{wmH20s#wzy1#lW|mLTk$-P<*0<fb>U-QahPNh6wyP0=p(rUU61",
+            "util/parallel.py": "-}b`Ol!%RQX%_|pQW!bvkwWRA{#!Pe%|D9z+jO2|sN{$J&_}}cJmt4VDLMaw",
+            "util/typing.py": "ZCvPPLw5wJA`S8d>r^6O1fj_RScYCS<eJ8@WKK-Hx94X*?-Pmur`t|<!3nxu",
+            "util/singleton/config.py": "O8Cx+cjwq^On1HC-|rg6D25E{S#d!m{VY_BX*(Xt-EpV$TL*`6d(jHV8A3Q(",
+            "util/singleton/flexispace.py": "ltWGStiWq>ZDAICJ|BPdWWe{pR0){@l0~b@UgS<frgImzaEKb$ih^1aR=eYX",
+            "util/tools/flattools.py": "J<|4jCWv8#rm*DTrI-O6RfBI;r=8dO6hnowz7wFsR0J8pYI_JC)|s@IkCf~d",
+            "util/tools/functools.py": "=1WngfZ4X_X%rYM$~>P@MVTpJSTQh~`I4w+K<6s?y>vD#oaahQL1AcmmzXoC",
+            "util/tools/hashtools.py": ">X^@TY56P?USJ6mqH%~}C`o(-hegMRgl}xF1JoRko`OU#P0#ZaTY#y|rmfAb",
+            "util/tools/maptools.py": "%mC%kI70nQjKqEqy1jIlp_Xd7ARK6PYlYn<&;msBmxkpjLCZ8JT)#cJgcN~#",
+            "util/tools/moduletools.py": "M6*j|_uTO*lhp*E>1<Z6iIiqn78Oj*vs1v<sMUjvk9#ULx>!UeJ2YOa3eb@k",
+            "util/tools/retools.py": "J;p~DX~~`XY$Z5tT+K|w104DCVZ@~ElF+@nOTf7ph&wg_H4+P;poMPlGBl!)",
+            "util/tools/seqtools.py": "9|fB>TEW{LHK^@hW+-@BB=1zZR?KIiwjGVaEiN-jB6L7v<$p3@SV-*Mr{({m",
+            "frameworks/blueprint/blueprint.py": "^5KX6v}u=9H~uQ(W9a{{jMcAS@V<`hsw;i~bdr(In8j&_!JccxtMx*G+OEmy",
+            "frameworks/blueprint/cascade.py": "_#$LHJv{=U`Yt?VlzGAbuyeej@p)`NttuJS7G-fsp7B^IVur(YLkQ57s`dw4",
+            "frameworks/blueprint/crypt.py": "h^Zkt&K{Y;kSICs$AmHi(VnPjzHm$+<zn-6wS3}|ES&%n{P#)eKoxYfan?D~",
+            "frameworks/blueprint/generate.py": "L=mjqwD4H$q3kk7hEX3~4VyxDcVzceDD{2CD2^HIK6X>O%!NFI$WZkb-!*H%",
+            "frameworks/blueprint/__init__.py": "eOzS9X_BD?1RPnDDdaionTtQPmb#Zv0bgT{NnL_Y;}X1ikM_^~x8S3gbA=<~",
+            "frameworks/blueprint/package.py": "6jqnT+Wd=H#U6kTBM5vSsJ{WA*!{Ab1GZTl?x5<uosJrmayT;$sE8d9WJ3d8",
+            "frameworks/blueprint/parts.py": "ids`p4+#u?bf|eX6{qPi<B3#(C^L56d4xk2_?1zHXnA*EiIxOPJoAvS4iuv2"
+        }
     },
     "drafts": {},
     "crypt": {
-        "key": null,
-        "sig": null,
+        "key": "xuR~Xa-nnh2ylGdCc{SfiXEEn7)=w)d#hv*Nq`B8",
+        "sig": ")uIjl7NYW?mJf-8uBO8RBAYL-g3v&u{3=-F#IDn(vXk`M?Kg06|MV<>e6)zVBXHBt55(&sR+*!)N_I^Q",
         "cascade": {}
     },
     "relations": {
