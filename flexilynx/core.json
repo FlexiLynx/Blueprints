@@ -34,13 +34,15 @@
             "frameworks/blueprint/package.py": "UY2zpT5c}PC?A)g)$p?2M3Bm|Uy=$8EpxH=Aw-MFR2^gv5%ka;%-={&=*2*!",
             "frameworks/blueprint/parts.py": "ids`p4+#u?bf|eX6{qPi<B3#(C^L56d4xk2_?1zHXnA*EiIxOPJoAvS4iuv2",
             "util/tools/fstools.py": "%VNwn%cJW(u7sd~qbAj|kEx;O`Mdkg&OH)FMQGE4-w5-JjmMR*yAS%^MXGi>",
-            "frameworks/blueprint/package_old.py": "h}jsB@J(f%epV@Sq+n>5Rh1$%kth##GK7oheelBXLr-jCrWqpD%ML6+&OH=v"
+            "frameworks/blueprint/package_old.py": "h}jsB@J(f%epV@Sq+n>5Rh1$%kth##GK7oheelBXLr-jCrWqpD%ML6+&OH=v",
+            "frameworks/module/__init__.py": "9uQXXNIW|5@HJ^hiIvh37CxD*fZa$owgSU^QaL6QMjgJt3H;nIbY9#UhalJ?",
+            "frameworks/module/module.py": "I!E3>llBx@Lc*wL8?Cspu_B=+xf#|#YoT#W*QBCU;15Z|M-fXRzrBFtp!ltQ"
         }
     },
     "drafts": {},
     "crypt": {
         "key": "xuR~Xa-nnh2ylGdCc{SfiXEEn7)=w)d#hv*Nq`B8",
-        "sig": "FxT<iHP_SoZIv>=;B9fcYYJ5LPPu;_JDpP)&;}q{W>zt~ezB#ef`mk3CCM`ITL;*-;&))$$L^{4qFAmB",
+        "sig": "al18_FhS)}BCK!RE%9tOW)y*AM?$zK{^Q8z9I3cGbIC~VD(E{$aJ#y@oBCyKIwK8SJnpmZ<aY0a)akbZ",
         "cascade": {}
     },
     "relations": {
