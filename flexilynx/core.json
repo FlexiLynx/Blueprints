@@ -23,7 +23,7 @@
             "util/tools/functools.py": "tlS&>{pIYXx)8&`MvuhjxZMISqmWt+;Hv4a-@5*%T>RSoY?DNU?IU;<6l#0~",
             "util/tools/hashtools.py": ">X^@TY56P?USJ6mqH%~}C`o(-hegMRgl}xF1JoRko`OU#P0#ZaTY#y|rmfAb",
             "util/tools/maptools.py": "%mC%kI70nQjKqEqy1jIlp_Xd7ARK6PYlYn<&;msBmxkpjLCZ8JT)#cJgcN~#",
-            "util/tools/moduletools.py": "$qs&U@rl(R5e?5A<i1e`Ne(pK-B&}>35-8GP>q`Ife78WP*;@UfQUCFdW<>P",
+            "util/tools/moduletools.py": "$$_k>^Upr)E)4QtB}Ag!GB@bDLMYNvY4)C0neHjrk%uGX@)v8fqJ?JUS2=vy",
             "util/tools/retools.py": "J;p~DX~~`XY$Z5tT+K|w104DCVZ@~ElF+@nOTf7ph&wg_H4+P;poMPlGBl!)",
             "util/tools/seqtools.py": "9|fB>TEW{LHK^@hW+-@BB=1zZR?KIiwjGVaEiN-jB6L7v<$p3@SV-*Mr{({m",
             "frameworks/blueprint/blueprint.py": "^5KX6v}u=9H~uQ(W9a{{jMcAS@V<`hsw;i~bdr(In8j&_!JccxtMx*G+OEmy",
@@ -35,8 +35,8 @@
             "frameworks/blueprint/parts.py": "ids`p4+#u?bf|eX6{qPi<B3#(C^L56d4xk2_?1zHXnA*EiIxOPJoAvS4iuv2",
             "util/tools/fstools.py": "%VNwn%cJW(u7sd~qbAj|kEx;O`Mdkg&OH)FMQGE4-w5-JjmMR*yAS%^MXGi>",
             "frameworks/blueprint/package_old.py": "h}jsB@J(f%epV@Sq+n>5Rh1$%kth##GK7oheelBXLr-jCrWqpD%ML6+&OH=v",
-            "frameworks/module/__init__.py": ">R%J$e)nPD>}v-~zX(Z!_*p1&`=hj`EVFBdyj6WyGtn4U_dye8LwC9P%`soG",
-            "frameworks/module/module.py": "O-T0;!>?1Z66T)w$W5@}Oemn9cFFW@4sX38_w$$^VI^>Ny}WE#ZU`pZPP+d=",
+            "frameworks/module/__init__.py": "R+saa`5Nr;;!S+X?_9M`{Phgr`&Sax)P9*ETc7FZ-=(Kn{W6-)@Fhp_Sx_x)",
+            "frameworks/module/module.py": "=}po09u#v%!np!*sGL7rEg*$g&QXwpU5QBd+IX1<)?XcSO9+Pk832V8d}i@O",
             "frameworks/module/database.py": "FJUheOwbG>BzfSS$N(q<#ZCX{o88~xU4rG|^$r4JA%At!8_rF)PJkA@f^yuO",
             "frameworks/module/loader.py": "K!Ilh3qcq|6XbKC2Zy!w+S1g(zFC}cHhSCk4h)@Fb7*<gh?A~FtS!*Pbn^aC",
             "util/testing/packinspect.py": "9M88sP;dWW*rtf}Qrxm2ol2F0tAK|E7T_3n?9$K^;_`p!niY3D!q0}_%+TvD"
@@ -45,7 +45,7 @@
     "drafts": {},
     "crypt": {
         "key": "xuR~Xa-nnh2ylGdCc{SfiXEEn7)=w)d#hv*Nq`B8",
-        "sig": "ZX1B6Dsmgrft+qT4Vu92<&MY?C`G>>ty23O4p{QFK$zkm3!N`~!Am`7;>k2CkW_((i8TL`$t_1|^_u(v",
+        "sig": "IL=Tvm!+v=>qAHsLGJT|terd~jMOdnp&<a}!{#_SP|&MCHrc*@ojEpIePjN`T&32V%vzIB3moq6ZRY0)",
         "cascade": {}
     },
     "relations": {
