@@ -35,17 +35,17 @@
             "frameworks/blueprint/parts.py": "ids`p4+#u?bf|eX6{qPi<B3#(C^L56d4xk2_?1zHXnA*EiIxOPJoAvS4iuv2",
             "util/tools/fstools.py": "%VNwn%cJW(u7sd~qbAj|kEx;O`Mdkg&OH)FMQGE4-w5-JjmMR*yAS%^MXGi>",
             "frameworks/blueprint/package_old.py": "h}jsB@J(f%epV@Sq+n>5Rh1$%kth##GK7oheelBXLr-jCrWqpD%ML6+&OH=v",
-            "frameworks/module/__init__.py": "g+SW6A`qi!ZiiCO1CP>bc9_YaXif?YKZ45E@4YNL3rA19E=}CuZ`f6D)ZPu%",
-            "frameworks/module/module.py": "HlZ*8SgooEe+Go1PXastbav&5@FmysffuE~c1d&+mjM|q-KXi(cRQ8ykmRAI",
+            "frameworks/module/__init__.py": ">R%J$e)nPD>}v-~zX(Z!_*p1&`=hj`EVFBdyj6WyGtn4U_dye8LwC9P%`soG",
+            "frameworks/module/module.py": "O-T0;!>?1Z66T)w$W5@}Oemn9cFFW@4sX38_w$$^VI^>Ny}WE#ZU`pZPP+d=",
             "frameworks/module/database.py": "FJUheOwbG>BzfSS$N(q<#ZCX{o88~xU4rG|^$r4JA%At!8_rF)PJkA@f^yuO",
-            "frameworks/module/loader.py": "m!8Ys`wI|0>Nmw)#OR%LIv{|(;6U`tCj{2MZAdzfAkcCdLul7#%8Sgux1yoy",
+            "frameworks/module/loader.py": "K!Ilh3qcq|6XbKC2Zy!w+S1g(zFC}cHhSCk4h)@Fb7*<gh?A~FtS!*Pbn^aC",
             "util/testing/packinspect.py": "9M88sP;dWW*rtf}Qrxm2ol2F0tAK|E7T_3n?9$K^;_`p!niY3D!q0}_%+TvD"
         }
     },
     "drafts": {},
     "crypt": {
         "key": "xuR~Xa-nnh2ylGdCc{SfiXEEn7)=w)d#hv*Nq`B8",
-        "sig": "(P$}@9Ifat8{sa&T3oL(%-}+iKm=Sj^Z0CA?a&;=nQNy}>Elrs7?jBi&af|Mk82ngZ0}&cfwSP(?iP^(",
+        "sig": "ZX1B6Dsmgrft+qT4Vu92<&MY?C`G>>ty23O4p{QFK$zkm3!N`~!Am`7;>k2CkW_((i8TL`$t_1|^_u(v",
         "cascade": {}
     },
     "relations": {
