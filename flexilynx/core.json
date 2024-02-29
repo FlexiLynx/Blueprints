@@ -38,13 +38,14 @@
             "frameworks/module/__init__.py": "g+SW6A`qi!ZiiCO1CP>bc9_YaXif?YKZ45E@4YNL3rA19E=}CuZ`f6D)ZPu%",
             "frameworks/module/module.py": "HlZ*8SgooEe+Go1PXastbav&5@FmysffuE~c1d&+mjM|q-KXi(cRQ8ykmRAI",
             "frameworks/module/database.py": "FJUheOwbG>BzfSS$N(q<#ZCX{o88~xU4rG|^$r4JA%At!8_rF)PJkA@f^yuO",
-            "frameworks/module/loader.py": "m!8Ys`wI|0>Nmw)#OR%LIv{|(;6U`tCj{2MZAdzfAkcCdLul7#%8Sgux1yoy"
+            "frameworks/module/loader.py": "m!8Ys`wI|0>Nmw)#OR%LIv{|(;6U`tCj{2MZAdzfAkcCdLul7#%8Sgux1yoy",
+            "util/testing/packinspect.py": "9M88sP;dWW*rtf}Qrxm2ol2F0tAK|E7T_3n?9$K^;_`p!niY3D!q0}_%+TvD"
         }
     },
     "drafts": {},
     "crypt": {
         "key": "xuR~Xa-nnh2ylGdCc{SfiXEEn7)=w)d#hv*Nq`B8",
-        "sig": "L`|uECr00~?59>MzHo`&#|Vzafu;&$`UflkP7&N*qE_Wxvmo2_cL?9BS~*I{M-vn-n(%n#&vGuSWX_2I",
+        "sig": "(P$}@9Ifat8{sa&T3oL(%-}+iKm=Sj^Z0CA?a&;=nQNy}>Elrs7?jBi&af|Mk82ngZ0}&cfwSP(?iP^(",
         "cascade": {}
     },
     "relations": {
