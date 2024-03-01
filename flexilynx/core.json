@@ -9,10 +9,10 @@
         "url": "https://raw.githubusercontent.com/FlexiLynx/FlexiLynxCore/main/",
         "hash_method": "sha3_384",
         "files": {
-            "__entrypoint__.py": "V8r8Xcw5W2UV`Ioshh^qrj1`HuA!dAQ`pUu{lA<<I#2o-s30%f*49bO^$wrM",
+            "__entrypoint__.py": "iIqZZ=ac!`Upcn4emC`~c6KJ{JvxgeX&THz5hI};kn*-l>WAioUF*DWn!CD6",
             "util/base85.py": "mtL#&dwiI8K3aOL_K{Bu%6L*WpMT`SCfh2N$gs*XP|0oCgtaP2GbRV1(2&nU",
             "util/__init__.py": "GMbZbVBeuCNH1Mrho&|O;^?oqKcb8&>qDACxTFB9m>jpUxWH4u!Ve)|AhtM}",
-            "util/logger.py": "1DJz{h7gsE9x?I(g}Jvo=Ipp_u8mfaeI9!}cw9(71@VBPiFR|2Cd~b{y|d=m",
+            "util/logger.py": "GhFtbVmD-GqjC*ZEs|YaM#(5sk7c}d=xz{?dSOCbY(6Nd#fGB7MZ|O?!&O09",
             "util/net.py": "?GhOCs770HtLa7H67ZcQm8tn(HWz9{uY2P?&a#-i*pbq?X<i?Q{#v_$1X;HF",
             "util/pack.py": "4NdyIrrKl{wmH20s#wzy1#lW|mLTk$-P<*0<fb>U-QahPNh6wyP0=p(rUU61",
             "util/parallel.py": "-}b`Ol!%RQX%_|pQW!bvkwWRA{#!Pe%|D9z+jO2|sN{$J&_}}cJmt4VDLMaw",
@@ -40,13 +40,15 @@
             "frameworks/module/database.py": "FJUheOwbG>BzfSS$N(q<#ZCX{o88~xU4rG|^$r4JA%At!8_rF)PJkA@f^yuO",
             "frameworks/module/loader.py": "A}(U`oIX4oe&x+F<CLk12_=W12k|@uJ@95EPUNKTnqSm7G<BJIwcT$DRr9y%",
             "util/testing/packinspect.py": "9M88sP;dWW*rtf}Qrxm2ol2F0tAK|E7T_3n?9$K^;_`p!niY3D!q0}_%+TvD",
-            "frameworks/module/manager.py": "b=rU(aLO+S7-elP72;$iai82nuEBSUKlG0-UzSQX#FLV-ZKez{$jmER@%AUd"
+            "frameworks/module/manager.py": "b=rU(aLO+S7-elP72;$iai82nuEBSUKlG0-UzSQX#FLV-ZKez{$jmER@%AUd",
+            "frameworks/plugin/__init__.py": "91ud%LyzEXa8T->GL71pNt}U_VXfF=3*rNj#ZWd!t}37+J3?8JpKa%xCG4JX",
+            "frameworks/plugin/plugin.py": ")-@7#uhaI`<CUb0Lg$fqD-!N<y$++ngM$m_SV8xmLX}=Cq(U(Ng!9Tto^d9W"
         }
     },
     "drafts": {},
     "crypt": {
         "key": "xuR~Xa-nnh2ylGdCc{SfiXEEn7)=w)d#hv*Nq`B8",
-        "sig": "{*#6n>#y&Ju1G)}ihE^yXB|Ec80s_PS(r)vv4mkZwjlFU3RR*$-&}UeG|_r)MjyhcGm?`sLoAU<!el!N",
+        "sig": "l_G&laAQ`;!0GPxwRF}R$WtsPBpEkl_->}e(qmrEfi6q}Bt-w&0v->J1S@^nT$gX2gcMpNko+DU1f$^$",
         "cascade": {}
     },
     "relations": {
