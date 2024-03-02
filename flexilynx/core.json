@@ -9,7 +9,7 @@
         "url": "https://raw.githubusercontent.com/FlexiLynx/FlexiLynxCore/main/",
         "hash_method": "sha3_384",
         "files": {
-            "__entrypoint__.py": "iIqZZ=ac!`Upcn4emC`~c6KJ{JvxgeX&THz5hI};kn*-l>WAioUF*DWn!CD6",
+            "__entrypoint__.py": "yM2r3r3!{-2!6zyF%DFf0W-K*<2$r05!}9+K*)mEzP<TPs+v+YSOMiT+`(d*",
             "util/base85.py": "mtL#&dwiI8K3aOL_K{Bu%6L*WpMT`SCfh2N$gs*XP|0oCgtaP2GbRV1(2&nU",
             "util/__init__.py": "GMbZbVBeuCNH1Mrho&|O;^?oqKcb8&>qDACxTFB9m>jpUxWH4u!Ve)|AhtM}",
             "util/logger.py": "GhFtbVmD-GqjC*ZEs|YaM#(5sk7c}d=xz{?dSOCbY(6Nd#fGB7MZ|O?!&O09",
@@ -36,19 +36,21 @@
             "util/tools/fstools.py": "%VNwn%cJW(u7sd~qbAj|kEx;O`Mdkg&OH)FMQGE4-w5-JjmMR*yAS%^MXGi>",
             "frameworks/blueprint/package_old.py": "h}jsB@J(f%epV@Sq+n>5Rh1$%kth##GK7oheelBXLr-jCrWqpD%ML6+&OH=v",
             "frameworks/module/__init__.py": "6>fg(#*Lm6*f%PqIY^L6ciy|2pbL9h+8<9DWWDz2G3__R`Sd*yt*9R!j+wy?",
-            "frameworks/module/module.py": "H~kU{6=$>6$_$zjDy4}+6+I8+QEC4?#gjK}nhhi|IKa}<{K1hkjGF!ehO_Rd",
+            "frameworks/module/module.py": "bShFqwCrtsFG~jkoL#z|gV`~>^zv^0%qp-SLRU4D?syzH5L0IA2^x}m+DJ=w",
             "frameworks/module/database.py": "FJUheOwbG>BzfSS$N(q<#ZCX{o88~xU4rG|^$r4JA%At!8_rF)PJkA@f^yuO",
             "frameworks/module/loader.py": "A}(U`oIX4oe&x+F<CLk12_=W12k|@uJ@95EPUNKTnqSm7G<BJIwcT$DRr9y%",
             "util/testing/packinspect.py": "9M88sP;dWW*rtf}Qrxm2ol2F0tAK|E7T_3n?9$K^;_`p!niY3D!q0}_%+TvD",
-            "frameworks/module/manager.py": "b=rU(aLO+S7-elP72;$iai82nuEBSUKlG0-UzSQX#FLV-ZKez{$jmER@%AUd",
-            "frameworks/plugin/__init__.py": "91ud%LyzEXa8T->GL71pNt}U_VXfF=3*rNj#ZWd!t}37+J3?8JpKa%xCG4JX",
-            "frameworks/plugin/plugin.py": ")-@7#uhaI`<CUb0Lg$fqD-!N<y$++ngM$m_SV8xmLX}=Cq(U(Ng!9Tto^d9W"
+            "frameworks/module/manager.py": "iLS<!ngCMrlMtn{wD}&N#xp7wMRm_F<Qpi0MY1si>F^p)k3dXb3x5%$V{mvj",
+            "frameworks/plugin/__init__.py": "i1m~>NB!^9$nI?D=4Gl`)^8BU!p&j$zsA|zVrUvs4jg%~cHcNSOq4@ZhNh@c",
+            "frameworks/plugin/plugin.py": "47QEVHzT?#rAU_FO^C_f;@yQ3z4*X4$(^AxZclxu<IEDKwt&{EV=jA2r*dmW",
+            "frameworks/plugin/loader.py": "Ysc)QQaNJR>FDdnEyRD^fmTMzR!4HIU3Ko1a>lNV<)Z|?{IkI#=6Bv^N$*?e",
+            "frameworks/plugin/manager.py": "z<n8cax2Sw;a(aRc6`_oI=fl?wdfMzpN#q&<{ifet2@u}=P};?{DU*s4A5ZC"
         }
     },
     "drafts": {},
     "crypt": {
         "key": "xuR~Xa-nnh2ylGdCc{SfiXEEn7)=w)d#hv*Nq`B8",
-        "sig": "l_G&laAQ`;!0GPxwRF}R$WtsPBpEkl_->}e(qmrEfi6q}Bt-w&0v->J1S@^nT$gX2gcMpNko+DU1f$^$",
+        "sig": "32KmeAH!XzD~`*WxiT(h2ih<+%Ggo30SJAdLEg`-8Y<JIz*w3TTx@VxvvTegG%4oB=*A!G>jB#7u;z^o",
         "cascade": {}
     },
     "relations": {
