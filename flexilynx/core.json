@@ -40,7 +40,7 @@
             "frameworks/module/database.py": "FJUheOwbG>BzfSS$N(q<#ZCX{o88~xU4rG|^$r4JA%At!8_rF)PJkA@f^yuO",
             "frameworks/module/loader.py": "A}(U`oIX4oe&x+F<CLk12_=W12k|@uJ@95EPUNKTnqSm7G<BJIwcT$DRr9y%",
             "util/testing/packinspect.py": "9M88sP;dWW*rtf}Qrxm2ol2F0tAK|E7T_3n?9$K^;_`p!niY3D!q0}_%+TvD",
-            "frameworks/module/manager.py": "iLS<!ngCMrlMtn{wD}&N#xp7wMRm_F<Qpi0MY1si>F^p)k3dXb3x5%$V{mvj",
+            "frameworks/module/manager.py": "GwLDQ>bCwnlTJ#IvvtFyPU;L%cWBJ7hX1kDHL&S|dFgXt4rTcQdsCIh>+2qD",
             "frameworks/plugin/__init__.py": "i1m~>NB!^9$nI?D=4Gl`)^8BU!p&j$zsA|zVrUvs4jg%~cHcNSOq4@ZhNh@c",
             "frameworks/plugin/plugin.py": "47QEVHzT?#rAU_FO^C_f;@yQ3z4*X4$(^AxZclxu<IEDKwt&{EV=jA2r*dmW",
             "frameworks/plugin/loader.py": "Ysc)QQaNJR>FDdnEyRD^fmTMzR!4HIU3Ko1a>lNV<)Z|?{IkI#=6Bv^N$*?e",
@@ -50,7 +50,7 @@
     "drafts": {},
     "crypt": {
         "key": "xuR~Xa-nnh2ylGdCc{SfiXEEn7)=w)d#hv*Nq`B8",
-        "sig": "32KmeAH!XzD~`*WxiT(h2ih<+%Ggo30SJAdLEg`-8Y<JIz*w3TTx@VxvvTegG%4oB=*A!G>jB#7u;z^o",
+        "sig": "(vigcip-zf(4JDR58n_$#fvLCfLtP*vE?dogt@09_KBO)SNOnUyX|->j=|!^%LJ_yox;wdZ294Iv%Mw-",
         "cascade": {}
     },
     "relations": {
