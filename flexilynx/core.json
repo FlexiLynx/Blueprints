@@ -15,7 +15,7 @@
             "frameworks/blueprint/cascade.py": "_#$LHJv{=U`Yt?VlzGAbuyeej@p)`NttuJS7G-fsp7B^IVur(YLkQ57s`dw4",
             "frameworks/blueprint/crypt.py": "h^Zkt&K{Y;kSICs$AmHi(VnPjzHm$+<zn-6wS3}|ES&%n{P#)eKoxYfan?D~",
             "frameworks/blueprint/generate.py": "Hz<HrZ)8!X=^z@<@EXhP-wylEz9nxf4T1;2inS~TS!%-v`1kE!9V3+`E34x8",
-            "frameworks/blueprint/package.py": "0fb(9G7A1XH)Mq);ed=AFIb3@+4C`#?hNl=%k5-4jxk#uk-G|8DlxpooL6Fz",
+            "frameworks/blueprint/package.py": "^s@H}rD_P@Z+y}wYD;+PgRCPv_|AwIVHy(YVCNC2gMt4uK08;LFqSC19p==F",
             "frameworks/blueprint/parts.py": "ids`p4+#u?bf|eX6{qPi<B3#(C^L56d4xk2_?1zHXnA*EiIxOPJoAvS4iuv2",
             "frameworks/module/__init__.py": "6>fg(#*Lm6*f%PqIY^L6ciy|2pbL9h+8<9DWWDz2G3__R`Sd*yt*9R!j+wy?",
             "frameworks/module/loader.py": "A}(U`oIX4oe&x+F<CLk12_=W12k|@uJ@95EPUNKTnqSm7G<BJIwcT$DRr9y%",
@@ -48,7 +48,7 @@
     "drafts": {},
     "crypt": {
         "key": "xuR~Xa-nnh2ylGdCc{SfiXEEn7)=w)d#hv*Nq`B8",
-        "sig": "g+}(Bi4vyMD9f(=<ejspK|zOVW>dAXI}?Y&!wdpRRUN7kEV93Q^eA`rMqrqv{glC({cA8E1-e%(3y--C",
+        "sig": "0vYam4nfV71apv1gp)Y)G{cGxUMd$K!G-fN+v@AFU@)^wPRAg~_rN#^7ZoG0%YCV%BdY>Toc!7>`xpTQ",
         "cascade": {}
     },
     "relations": {
