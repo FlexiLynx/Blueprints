@@ -42,13 +42,14 @@
             "util/tools/moduletools.py": "$$_k>^Upr)E)4QtB}Ag!GB@bDLMYNvY4)C0neHjrk%uGX@)v8fqJ?JUS2=vy",
             "util/tools/retools.py": "J;p~DX~~`XY$Z5tT+K|w104DCVZ@~ElF+@nOTf7ph&wg_H4+P;poMPlGBl!)",
             "util/tools/seqtools.py": "9|fB>TEW{LHK^@hW+-@BB=1zZR?KIiwjGVaEiN-jB6L7v<$p3@SV-*Mr{({m",
-            "util/typing.py": "ZCvPPLw5wJA`S8d>r^6O1fj_RScYCS<eJ8@WKK-Hx94X*?-Pmur`t|<!3nxu"
+            "util/typing.py": "ZCvPPLw5wJA`S8d>r^6O1fj_RScYCS<eJ8@WKK-Hx94X*?-Pmur`t|<!3nxu",
+            "__init__.py": "%L@{Yk-i!j`qvO0BD<-3@gr-y_%)iJ+G$>EeEp!SKLz-Hmin?I5IC(L+7d<G"
         }
     },
     "drafts": {},
     "crypt": {
         "key": "xuR~Xa-nnh2ylGdCc{SfiXEEn7)=w)d#hv*Nq`B8",
-        "sig": "Zn!j6QNYU`35o~js+`&!NzPcG@SXMQy?!ZkqwCSNHc+k){c|OELqY61Y(ndN`iH1#b-B{<ko)Q;i>jFn",
+        "sig": "@^{^Nd=1DBu@P$(7CG!nGy){fy*a4$y<lM?x*;_g&uQYIy#Cl6D9p7dT`*d(b@&MjtsGdcI57B)b|@bL",
         "cascade": {}
     },
     "relations": {
