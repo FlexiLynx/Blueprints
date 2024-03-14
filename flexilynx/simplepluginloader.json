@@ -4,9 +4,9 @@
     "name": "Simple Plugin Loader for FlexiLynx",
     "desc": "Loads simple Python-based FlexiLynx plugins",
     "version": null,
-    "url": "https://raw.githubusercontent.com/FlexiLynx/Blueprints/main/flexilynx/simplepluginloader.json",
+    "url": "https://codeberg.org/FlexiLynx/BlueprintDatabase/raw/branch/main/flexilynx/simplepluginloader.json",
     "main": {
-        "url": "https://raw.githubusercontent.com/FlexiLynx/Modules/main/flexilynx/simplepluginloader/",
+        "url": "https://codeberg.org/FlexiLynx/Modules/raw/branch/main/flexilynx/simplepluginloader/",
         "hash_method": "sha3_384",
         "files": {
             "__entrypoint__.py": "yms1uu?uYbvMEsdC3!|55y?NOfQgUU_4vkKoO#o$#s3G10JS<7aYnRF@#O_>",
@@ -16,7 +16,7 @@
     "drafts": {},
     "crypt": {
         "key": "xuR~Xa-nnh2ylGdCc{SfiXEEn7)=w)d#hv*Nq`B8",
-        "sig": "0mAY{>w&cyTzu-m{s-*95>9^t*J%SZ6<X~kOSC@7e9KpA#CKv?Jscfz6d0o4i9d*uFn-;dAV1_)Ak`%c",
+        "sig": "@)6?q1Jnt`Wj~k}whwKlg_ZtZ)|u{hha@nERxPPgu|OrC-7222XiKa8$WmaAf>{yg_K~Pf|AJ%1<Hf`c",
         "cascade": {}
     },
     "relations": {
