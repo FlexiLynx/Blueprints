@@ -1,9 +1,9 @@
 {
     "id": "flexilynx.core",
-    "rel": 2,
+    "rel": 3,
     "name": "FlexiLynx Core Package",
     "desc": "Core files required to run FlexiLynx",
-    "version": "Git commit: 06a1ab1 (prev: 0017433)",
+    "version": "Git commit: 06a1ab1 (prev: 06a1ab1)",
     "url": "https://codeberg.org/FlexiLynx/BlueprintDatabase/raw/branch/main/flexilynx/core.json",
     "main": {
         "url": "https://codeberg.org/FlexiLynx/FlexiLynxCore/raw/branch/main/",
@@ -49,7 +49,7 @@
     "drafts": {},
     "crypt": {
         "key": "xuR~Xa-nnh2ylGdCc{SfiXEEn7)=w)d#hv*Nq`B8",
-        "sig": "+L6jeRpU5v0iGgR-c!d-56f<MTrQWEk-OBoZf3Nq^nbWu)RiNUqtxwTzvn>w|Jz84oq5C}GZe;ZpNC-x",
+        "sig": "jYp7;d!l)5R#v63iZD1M(V*L4asacNmkYe>ToqmX$!+?E?zwF7OG+4=fZdLyD8?<lZc!jJ2b_ICm?@+U",
         "cascade": {
             "xuR~Xa-nnh2ylGdCc{SfiXEEn7)=w)d#hv*Nq`B8": {
                 "voucher": "xuR~Xa-nnh2ylGdCc{SfiXEEn7)=w)d#hv*Nq`B8",
