@@ -1,9 +1,9 @@
 {
     "id": "flexilynx.core",
-    "rel": 1,
+    "rel": 2,
     "name": "FlexiLynx Core Package",
     "desc": "Core files required to run FlexiLynx",
-    "version": "Git commit: 0017433 (prev: None)",
+    "version": "Git commit: 06a1ab1 (prev: 0017433)",
     "url": "https://codeberg.org/FlexiLynx/BlueprintDatabase/raw/branch/main/flexilynx/core.json",
     "main": {
         "url": "https://codeberg.org/FlexiLynx/FlexiLynxCore/raw/branch/main/",
@@ -43,13 +43,13 @@
             "util/tools/retools.py": "J;p~DX~~`XY$Z5tT+K|w104DCVZ@~ElF+@nOTf7ph&wg_H4+P;poMPlGBl!)",
             "util/tools/seqtools.py": "9|fB>TEW{LHK^@hW+-@BB=1zZR?KIiwjGVaEiN-jB6L7v<$p3@SV-*Mr{({m",
             "util/typing.py": "ZCvPPLw5wJA`S8d>r^6O1fj_RScYCS<eJ8@WKK-Hx94X*?-Pmur`t|<!3nxu",
-            "__init__.py": "%L@{Yk-i!j`qvO0BD<-3@gr-y_%)iJ+G$>EeEp!SKLz-Hmin?I5IC(L+7d<G"
+            "__init__.py": ")joBAN6J;v9!9bFNz*erOn(gy_O07WOcTZk%uf(<e{I?OSaY}NSgv({CT+LU"
         }
     },
     "drafts": {},
     "crypt": {
         "key": "xuR~Xa-nnh2ylGdCc{SfiXEEn7)=w)d#hv*Nq`B8",
-        "sig": "=9*P3L$V6CU1No>M&{8ft591ig^PXx9?uV-r<p?>QCVR`69<*uk9448qRVyofgOgm6`4Dz&@>cNr3-)p",
+        "sig": "+L6jeRpU5v0iGgR-c!d-56f<MTrQWEk-OBoZf3Nq^nbWu)RiNUqtxwTzvn>w|Jz84oq5C}GZe;ZpNC-x",
         "cascade": {
             "xuR~Xa-nnh2ylGdCc{SfiXEEn7)=w)d#hv*Nq`B8": {
                 "voucher": "xuR~Xa-nnh2ylGdCc{SfiXEEn7)=w)d#hv*Nq`B8",
